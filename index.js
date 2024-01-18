@@ -1,5 +1,5 @@
 // bring in the shapes
-const [Shape, Triangle, Circle, Square] = require('./lib/shapes')
+const [Shape, Triangle, Circle, Square] = require('./lib/shapes.js')
 // bring in inquirer and fs, and dayjs for naming files
 const inquirer = require("inquirer")
 const fs = require('fs')
