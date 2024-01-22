@@ -27,6 +27,7 @@ Gaze uppon the gallery:
   
   - [License](#license)
   - [Installation](#installation)
+  - [Demo](#demonstration)
   - [Features](#features)
   - [Usage](#usage)
   - [Testing](#tests)
@@ -43,7 +44,13 @@ Gaze uppon the gallery:
   ## Installation
   Copy down the directory from https://github.com/jman2476/SVG_logo_gen and then open that directory in the terminal.
 
-Run `node index.js`  to get started
+      Run `node index.js`  to get started
+
+   <a id='demonstration'></a>
+  ## DEMO
+  For a complete demontration of my app, including testing, check out this video: https://drive.google.com/file/d/1Y5LR7LH3XLiinnc2k36moNWn9wxsSgsR/view?usp=drive_link
+
+  One thing to note about the demontration: when making one of the logos, I didn't realize that 'lightred' is not a javascript color keyword, but it defaulted to black fill color, which is the expected behavior.
   
   <a id='features'></a>
   ## Features
